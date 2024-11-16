@@ -1,0 +1,16 @@
+[
+  {
+    "Nombre": "Luna",
+    "Edad": "3",
+    "Tipo": "Perro",
+    "Color": "Negro",
+    "Enfermedad": "Resfriado"
+  },
+  {
+    "Nombre": "Nala",
+    "Edad": "4",
+    "Tipo": "Perro",
+    "Color": "Café",
+    "Enfermedad": "IBD"
+  }
+]
